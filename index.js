@@ -1,4 +1,4 @@
-
+"use strict"
 var importar = require ('express');
 var app = express();
 
